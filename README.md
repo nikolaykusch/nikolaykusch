@@ -1,5 +1,5 @@
 # Nikolay Kusch
-### Indie UWP, MAUI developer
+### Indie UWP, MAUI, Avalonia UI developer
 
 #### current main project [T-Drive - Microsoft Store Apps](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 
